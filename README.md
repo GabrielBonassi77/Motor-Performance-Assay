@@ -1,6 +1,6 @@
 # *An optogenetic assay of Drosophila larval motor neuron performance in vivo* – Supplemental Data
 
-**Authors:** Yosuf Arab, Gabriel Bonassi, Gregory Macleod, Carlos Oliva, Danielle Latner  
+**Authors:** Yosuf Arab, Gabriel Bonassi, Gregory Macleod  
 **Date:** 2025-08-15  
 
 ## Contents
