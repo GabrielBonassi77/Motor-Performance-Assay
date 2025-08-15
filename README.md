@@ -1,11 +1,14 @@
 # *An optogenetic assay of Drosophila larval motor neuron performance in vivo* – Supplemental Data
 
-**Authors:** Yosuf Arab†, Gabriel Bonassi†, Gregory Macleod  
+**Authors:** Yosuf Arab<sup>†1</sup>, Gabriel Bonassi<sup>†1</sup>, Gregory Macleod<sup>1,2</sup>
+1. Wilkes Honors College, Florida Atlantic University, Jupiter, FL, USA
+2. Department of Physiology, Tulane University School of Medicine, New Orleans, LA, USA
+
 **Date:** 2025-08-15  
-**† These authors contributed equally**
+† These authors contributed equally
 
 ## Contents
-- `program1.ino` — Arduino sketch for controlling the motor performance assay rig.  
+- `Red_LED_Matrix_Program.ino` — Arduino sketch for controlling the **red LED matrices** in the motor performance assay rig.  
 - `program2.ino` — Arduino sketch for sensor calibration and testing.  
 - `workflow.bonsai` — Bonsai workflow file for data acquisition and processing.  
 
