@@ -1,19 +1,20 @@
-# *An optogenetic assay of Drosophila larval motor neuron performance in vivo* - Supplemental Data
+# *An optogenetic assay of Drosophila larval motor neuron performance in vivo* – Supplemental Data
 
 **Authors:** Yosuf Arab, Gabriel Bonassi, Gregory Macleod, Carlos Oliva, Danielle Latner  
 **Date:** 2025-08-15  
 
 ## Contents
-- `file1.csv` — Raw motor performance readings from the Arduino-based assay rig.  
-- `file2.csv` — Processed summary data used in the analysis.  
-- `file3.json` — Configuration and metadata for experimental runs.  
+- `program1.ino` — Arduino sketch for controlling the motor performance assay rig.  
+- `program2.ino` — Arduino sketch for sensor calibration and testing.  
+- `workflow.bonsai` — Bonsai workflow file for data acquisition and processing.  
 
 ## Purpose
-These files provide the supplemental data underlying the analyses reported in the associated paper.
+These files provide the supplemental programs used in the setup and operation of the motor performance assay rig described in the associated paper.
 
 ## Usage Notes
-- All data files are in CSV or JSON format and can be opened with standard software.  
-- Column headers and variable names are described in each file or in the metadata.
+- Arduino sketches (`.ino` files) can be opened and uploaded using the Arduino IDE.  
+- The Bonsai workflow (`.bonsai` file) can be opened in the Bonsai visual programming environment.  
+- Refer to the paper’s Methods section for hardware setup details.
 
 ## License
 Released under the MIT License.
