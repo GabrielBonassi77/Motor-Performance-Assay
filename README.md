@@ -9,7 +9,7 @@
 
 ## Contents
 - `Red_LED_Matrix_Program.ino` — Arduino sketch for controlling the **red LED matrices** in the motor performance assay rig.  
-- `program2.ino` — Arduino sketch for sensor calibration and testing.  
+- `Blue_LED_Light_Program.ino` — Arduino sketch for sensor calibration and testing.  
 - `workflow.bonsai` — Bonsai workflow file for data acquisition and processing.  
 
 ## Purpose
