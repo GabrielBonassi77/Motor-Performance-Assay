@@ -19,7 +19,7 @@ These files provide the supplemental programs used in the setup and operation of
 - Arduino sketches (`.ino` files) can be opened and uploaded using the Arduino IDE.  
 - The Bonsai workflow (`.bonsai` file) can be opened in the Bonsai visual programming environment.  
 - Refer to the paper’s Methods section for hardware setup details.
-- To download, click the <> Code dropdown button in this repository and choose "Download as Zip Folder". After unzipping (e.g. 7Zip), files should be ready for import into the Arduino IDE and Bonsai. 
+- To download, click the `<> Code` dropdown button in this repository and choose "Download as Zip Folder". After unzipping (e.g. 7Zip), files should be ready for import into the Arduino IDE and Bonsai. 
 
   
 
